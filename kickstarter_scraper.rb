@@ -15,4 +15,4 @@ binding.pry
 #image link: project.css("div.project-thumbnail a img").attribute("src").value
 #description: project.css("p.bbcard_blurb").text
 #location: project.css("ul.project_meta span.location-name").value.text
-#percent_funded: project.css("ul.project-stats li.first.funded")
+#percent_funded: project.css("ul.project-stats li.first.funded").text
