@@ -12,3 +12,4 @@ create_project_hash
 binding.pry
 #projects: kickstarter.css("li.project.grid_4")
 #title: project.css("h2.bbcard_name strong a").text
+#image link: 
