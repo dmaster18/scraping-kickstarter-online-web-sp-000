@@ -14,6 +14,7 @@ def create_project_hash
       :image_link => 
       :description =>
       :location =>
+      :percent_funded
       
       
       
