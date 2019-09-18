@@ -20,7 +20,7 @@ def create_project_hash
   projects
 end
 
-end
+
 
 
 puts create_project_hash
